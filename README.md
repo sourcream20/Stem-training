@@ -8,3 +8,18 @@ and creating a simple calculator
 ## Day three
 creating a comlex caculator
 and how  to concantinate
+## Day four
+learning control flow:
+if statements,elif,
+else,while loops,for loops,
+break,continue.
+
+Lists:
+
+-indexes
+
+-strings
+
+-matrixes
+
+
