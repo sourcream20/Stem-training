@@ -22,4 +22,8 @@ Lists:
 
 -matrixes
 
+## Day five
 
+## Day six
+Learning about: 
+Lists,tuples,sets
