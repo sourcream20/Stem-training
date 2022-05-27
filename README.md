@@ -23,7 +23,10 @@ Lists:
 -matrixes
 
 ## Day five
-
+KUCCPS mentorship
 ## Day six
 Learning about: 
 Lists,tuples,sets
+## Day seven
+learnt on dictionary
+## Day eight
