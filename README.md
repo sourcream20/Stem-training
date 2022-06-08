@@ -42,4 +42,12 @@ using tkinter to create  grahical user interphase
 Game development with python
 ## Day fourteen
 ## Day fifteen 
-intro in to robotics
+intro in to robotics:
+
+-microprocessors
+
+-microcontrolers
+
+-hardware development
+
+-low level programming
