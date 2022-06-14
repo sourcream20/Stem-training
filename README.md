@@ -51,3 +51,7 @@ intro in to robotics:
 -hardware development
 
 -low level programming
+## Day sixteen
+Intro to electronics
+## Day seventeen
+Communication
