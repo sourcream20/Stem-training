@@ -55,3 +55,6 @@ intro in to robotics:
 Intro to electronics
 ## Day seventeen
 Communication
+## Day eighteen
+assembly of a remote control car
+## Day nineteen
