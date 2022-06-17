@@ -58,3 +58,6 @@ Communication
 ## Day eighteen
 assembly of a remote control car
 ## Day nineteen
+Development of the R.C code
+## Day twenty
+configuration of software to run the R.C
