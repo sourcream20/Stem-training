@@ -69,3 +69,6 @@ configuration of software to run the R.C
 learning about raspberry pi pico
 ## Day twenty-six
 front end
+## Day twenty-seven 
+## Day twenty-eight
+## Day twenty-nine
