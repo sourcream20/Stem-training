@@ -72,3 +72,6 @@ front end
 ## Day twenty-seven 
 ## Day twenty-eight
 ## Day twenty-nine
+## Day thirty
+## Day thirty-one
+
